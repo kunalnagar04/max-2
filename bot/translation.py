@@ -5,13 +5,14 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Hᴇʟʟᴏ sɪʀ I'ᴍ ᴀ Kɪʀᴀ 😎
+    
+<b>Hᴇʟʟᴏ sɪʀ I'ᴍ ᴀ Kɪʀᴀ 😎
 
- I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ.. Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ ᴀɴᴅ Tʏᴘᴇ Mᴏᴠɪᴇ Nᴀᴍᴇ  @RequestHubFlix 😏
-
+ I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ...Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ ᴀɴᴅ
+Wʀɪᴛᴇ Mᴏᴠɪᴇs Nᴀᴍᴇ Oɴʟʏ
 
 🔅 <b>@MoviesHubFlix</b> 🔅
-</i>"""    
+</b>"""    
     
     HELP_TEXT = """
 <b><i><u>How To Use Me!?</u></i></b>
@@ -43,16 +44,16 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@MoviesHubFlix
+<b>@MoviesHubFlix</b>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <b>Ⲕⲓʀⲁ Ϝⳑⲓⲭ</b>
+    ABOUT_TEXT = """<b>🔸 Name</b> : <b>Ⲕⲓʀⲁ Ϝⳑⲓⲭ</b>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/Bot_Flix">Bot_Flix</a></i></b>
+<b>🔹 Developer</b> : <b><i><a href="https://t.me/Bot_Flix">Bot_Flix</a></i></b>
 
-<b>➥ Language</b> : <code>Python3</code>
+<b>🔸 Language</b> : <code>Python3</code>
 
-<b>➥ Source</b> : <b><a href="https://t.me/Bot_Flix">Bot_Flix </a></b>
+<b>🔹 Source</b> : <b><a href="https://t.me/Bot_Flix">Bot_Flix </a></b>
 
-<b>➥ Channel</b> : <i><a href="https://t.me/MoviesHubFlix">MoviesHubFlix</a></i>
+<b>🔸 Channel</b> : <i><a href="https://t.me/MoviesHubFlix">MoviesHubFlix</a></b>
 """
