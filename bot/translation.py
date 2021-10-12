@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot 😉
+<i>Hᴇʟʟᴏ sɪʀ I'ᴍ ᴀ Kɪʀᴀ 😎
 
-For use me Just write only Movies/Series name in my group @RequestHubFlix 😏
+ I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ.. Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ ᴀɴᴅ Tʏᴘᴇ Mᴏᴠɪᴇ Nᴀᴍᴇ  @RequestHubFlix 😏
 
-For Request Movies/Series Join my Group ...
-@RequestHubFlix 💞
+
+🔅 <b>@MoviesHubFlix</b> 🔅
 </i>"""    
     
     HELP_TEXT = """
@@ -43,16 +43,16 @@ For Request Movies/Series Join my Group ...
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@MoviesHubFlix
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code>Ⲕⲓʀⲁ Ϝⳑⲓⲭ</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <b>Ⲕⲓʀⲁ Ϝⳑⲓⲭ</b>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/Bot_Flix">Bot_Flix</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+<b>➥ Source</b> : <b><a href="https://t.me/Bot_Flix">Bot_Flix </a></b>
 
-<b>➥ Source Code</b> : <i><a href="https://t.me/MoviesHubFlix">MoviesHubFlix</a></i>
+<b>➥ Channel</b> : <i><a href="https://t.me/MoviesHubFlix">MoviesHubFlix</a></i>
 """
