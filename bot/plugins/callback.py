@@ -1639,11 +1639,9 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 😏', url='https://t.me/Bot_Flix'),
+            InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 😏', url='https://t.me/Bot_Flix')
+        ],[
             InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ ♥️', url ='https://telegram.me/RequestHubFlix')
-        ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
-        ],[
             InlineKeyboardButton('Cᴏɴᴛᴀᴄᴛ 🙂', callback_data="help")
         ]]
     
