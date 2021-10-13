@@ -49,7 +49,7 @@ async def start(bot, update):
     buttons = [[
         InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 😏', url='https://t.me/Bot_Flix')
     ],[
-        InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ ♥️', url ='https://telegram.me/RequestHubFlix')
+        InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ ♥️', url ='https://telegram.me/RequestHubFlix'),
         InlineKeyboardButton('Cᴏɴᴛᴀᴄᴛ 🙂', callback_data="help")
     ]]
     
