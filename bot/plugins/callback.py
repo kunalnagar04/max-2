@@ -1641,7 +1641,7 @@ async def callback_data(bot, update: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 😏', url='https://t.me/Bot_Flix')
         ],[
-            InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ ♥️', url ='https://telegram.me/RequestHubFlix')
+            InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ ♥️', url ='https://telegram.me/RequestHubFlix'),
             InlineKeyboardButton('Cᴏɴᴛᴀᴄᴛ 🙂', callback_data="help")
         ]]
     
