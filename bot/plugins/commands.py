@@ -52,7 +52,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
     ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('Cᴏɴᴛᴀᴄᴛ 🙂', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
