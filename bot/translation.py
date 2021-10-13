@@ -15,7 +15,7 @@ Wʀɪᴛᴇ Mᴏᴠɪᴇs Nᴀᴍᴇ Oɴʟʏ
 </b>"""    
     
     HELP_TEXT = """
-<b><i><u>How To Contact Us!?</u></i></b>
+<b><i><u>You can Contact Us!</u></i></b>
 
 ⚡ <b>Here the Admins</b> ⚡
  
