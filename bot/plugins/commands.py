@@ -36,7 +36,6 @@ async def start(bot, update):
                             InlineKeyboardButton
                                 (
                                     '🍷Jᴏɪɴ Cʜᴀɴɴᴇʟ', url="https://t.me/MoviesHubFlix_official"
-                                    '🎃Jᴏɪɴ Gʀᴏᴜᴘ', url="https://t.me/RequestHubFlix"
                                 )
                         ]
                     ]
