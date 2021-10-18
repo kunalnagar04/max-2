@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🥂Jᴏɪɴ Cʜᴀɴɴᴇʟ', url="https://t.me/AnimeHubFlix"
+                                    '👑Jᴏɪɴ Cʜᴀɴɴᴇʟ', url="https://t.me/MoviesHubFlix_official"
                                 )
                         ]
                     ]
