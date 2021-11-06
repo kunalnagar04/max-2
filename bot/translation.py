@@ -6,12 +6,12 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
     
-<b>Hᴇʟʟᴏ sɪʀ I'ᴍ ᴀ Kɪʀᴀ 😎
+<b>Hᴇʟʟᴏ sɪʀ I'ᴍ ᴀ Kunal 😎
 
- I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ...Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ [ @RequestHubFlix ] ᴀɴᴅ
+ I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ...Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ [ @SH_request ] ᴀɴᴅ
 Wʀɪᴛᴇ Mᴏᴠɪᴇs Nᴀᴍᴇ Oɴʟʏ
 
-🔅 <b>@MoviesHubFlix</b> 🔅
+🔅 <b>@MoviesHouse8</b> 🔅
 </b>"""    
     
     HELP_TEXT = """
