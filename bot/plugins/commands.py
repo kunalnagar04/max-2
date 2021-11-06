@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🍷Jᴏɪɴ Cʜᴀɴɴᴇʟ', url="https://t.me/MoviesHubFlix_official"
+                                    '🍷Jᴏɪɴ Cʜᴀɴɴᴇʟ', url="https://t.me/MoviesHouse8"
                                 )
                         ]
                     ]
@@ -47,9 +47,9 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 😏', url='https://t.me/Bot_Flix')
+        InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 😏', url='https://t.me/kunal_nagar_01')
     ],[
-        InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ ♥️', url ='https://telegram.me/RequestHubFlix'),
+        InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ ♥️', url ='https://telegram.me/SH_request'),
         InlineKeyboardButton('Cᴏɴᴛᴀᴄᴛ 🙂', callback_data="help")
     ]]
     
