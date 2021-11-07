@@ -37,6 +37,10 @@ async def start(bot, update):
                                 (
                                     '😎 Jᴏɪɴ Cʜᴀɴɴᴇʟ 😎', url="https://t.me/MoviesHouse8"
                                 ) 
+                        ],[
+                            InlineKeyboardButton
+                                (   '♻️ Jᴏɪɴ Gʀᴏᴜᴘ  ♻️', url="https://t.me/MH_request"
+                                ) 
                         ]
                     ]
                 )
@@ -47,9 +51,9 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 😏', url='https://t.me/kunal_nagar_01')
+        InlineKeyboardButton('Mʏ Fᴀᴛʜᴇʀ 😏', url='https://t.me/Available_24x7')
     ],[
-        InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ ♥️', url ='https://telegram.me/SH_request'),
+        InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ ♥️', url ='https://telegram.me/MH_request'),
         InlineKeyboardButton('Cᴏɴᴛᴀᴄᴛ 🙂', callback_data="help")
     ]]
     
