@@ -36,9 +36,6 @@ async def start(bot, update):
                             InlineKeyboardButton
                                 (
                                     '😎 Jᴏɪɴ Cʜᴀɴɴᴇʟ 😎', url="https://t.me/MoviesHouse8"
-                                )
-                            InlineKeyboardButton
-                                (   '♻️ Jᴏɪɴ Gʀᴏᴜᴘ  ♻️', url="https://t.me/mh_request"
                                 ) 
                         ]
                     ]
