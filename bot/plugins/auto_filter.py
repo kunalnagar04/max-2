@@ -155,7 +155,7 @@ async def auto_filter(bot, update):
         result[0].append([
             InlineKeyboardButton(f"🔰 Page 1/{len_result if len_result < max_pages else max_pages} 🔰", callback_data="ignore")
         ],[
-            InlineKeyboardButton('Mᴏᴠɪᴇs Hᴏᴜsᴇ​',url=https://t.me/movieshouse8)
+            InlineKeyboardButton('Mᴏᴠɪᴇs Hᴏᴜsᴇ​', url="https://t.me/movieshouse8")
         ])
         
         
