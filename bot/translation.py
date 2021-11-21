@@ -8,7 +8,7 @@ class Translation(object):
     
 <b>Hᴇʟʟᴏ sɪʀ I'ᴍ ᴀ Kunal 😎
 
- I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ...Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ [ @SH_request ] ᴀɴᴅ
+ I ᴄᴀɴ Pʀᴏᴠɪᴅᴇ ᴀɴʏ Mᴏᴠɪᴇ ᴏʀ Sᴇʀɪᴇs ʏᴏᴜ ᴡᴀɴᴛ...Jᴜsᴛ Jᴏɪɴ Mʏ Gʀᴏᴜᴘ [ @MH_request ] ᴀɴᴅ
 Wʀɪᴛᴇ Mᴏᴠɪᴇs Nᴀᴍᴇ Oɴʟʏ
 
 🔅 <b>@MoviesHouse8</b> 🔅
@@ -26,7 +26,7 @@ Wʀɪᴛᴇ Mᴏᴠɪᴇs Nᴀᴍᴇ Oɴʟʏ
 <b>🔅 @MoviesHouse8 🔅</b>
 """
     
-    ABOUT_TEXT = """<b>🔸 Name</b> : <b>Cheak</b>
+    ABOUT_TEXT = """<b>🔸 Name</b> : <b>MH Autofilter bot</b>
     
 <b>🔹 Developer</b> : <b><i><a href="https://t.me/kunal_nagar_01">kunal_nagar_01</a></i></b>
 
